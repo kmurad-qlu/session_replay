@@ -1,4 +1,4 @@
-Project SessionReplay
+### Project SessionReplay
 
 This project is a Python-based application that analyzes screen recording videos to automatically generate a detailed log of user interactions and a final, step-by-step instructional guide.
 
